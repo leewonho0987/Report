@@ -1,10 +1,12 @@
 # Report
-소프트웨어 공학 5 원칙 실습 보고서
+소프트웨어 공학 5원칙 실습 UML
 
 1. 단일 책임 원칙 / SRP 
-![image](https://github.com/leewonho0987/Report/assets/122905152/9feeb99e-a7ed-4665-9ba5-e6cf101bde20)
+
+![image](https://github.com/leewonho0987/Report/assets/122905152/f57b1c91-9455-48e1-a625-5efcb6eec733)
 
 2. 개방 폐쇄 원칙 / OCP
+
 ![image](https://github.com/leewonho0987/Report/assets/122905152/1f5a8d2c-ffd6-43ab-8066-4764e38d99df)
 
 3. 리스코프 교체 원칙 / LSP
